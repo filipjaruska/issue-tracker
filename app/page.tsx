@@ -1,5 +1,8 @@
+import { Button } from "@radix-ui/themes"
 export default function Home() {
   return (
-    <div>mnoew</div>
+    <div>meow
+      <Button>Button</Button>
+    </div>
   )
 }

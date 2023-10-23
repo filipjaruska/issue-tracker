@@ -36,8 +36,6 @@ const IssuesPage = async () => {
                 </Table.Body>
             </Table.Root>
         </div>
-
-
     )
 }
 export const dynamic = 'force-dynamic'
